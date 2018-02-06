@@ -1,5 +1,6 @@
 // Aula de hoje encapsulamento
 // Documentation: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
+// Exemplo para executar online:  http://tpcg.io/Twer4x
 
 /**
  *   Para que serve? = Criar modos diferentes de visualização dos componentes/objetos dentro do sistema de
