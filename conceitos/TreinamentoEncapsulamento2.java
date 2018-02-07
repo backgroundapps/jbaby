@@ -1,6 +1,5 @@
 // Aula de hoje encapsulamento
-// Documentation: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
-
+//exemplo online:  http://tpcg.io/TU27j1 
 /**
  * Acessando atributos através dos métodos publicos
  * 
