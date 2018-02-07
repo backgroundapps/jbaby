@@ -22,7 +22,7 @@
 
 //Esta é a classe referente ao arquivo TreinamentoEncapsulamento.java. Repare que o nome é o mesmo. Ao
 //contrário da classe Pessoa.
-public class TreinamentoEncapsulamento{
+public class TreinamentoEncapsulamento1{
 
      public static void main(String []args){
         System.out.println("Encapsulamento ;)");
